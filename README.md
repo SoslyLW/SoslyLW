@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Logan</h1>  
-<h3 align="center">...and I'm a third-year Computer Engineering student at Queen's University</h3>  
+<h3 align="center">...and I'm a fourth-year Computer Engineering student at Queen's University</h3>  
 
   <br>
 Check out the pinned repositories below or <a href="https://soslylw.github.io/">my website</a> to see some of the projects I've worked on.
